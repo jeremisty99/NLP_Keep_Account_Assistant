@@ -1,9 +1,9 @@
 # NLP_Keep_Account_Assistant
 小章同学——基于NLP技术的情感化智能记账管理APP
 
-[![svg](https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E8%80%85-%E6%9D%B0%E7%91%9E%E9%9B%BE%E9%87%8C-80a7c5)](https://wangjiayi.cool)
-
+[![svg](https://github.com/WangJerry1229/WangJerry1229/raw/main/badge.svg)](https://wangjiayi.cool)
 ![svg](https://forthebadge.com/images/badges/made-with-python.svg)
+![svg](https://forthebadge.com/images/badges/built-for-android.svg)
 
 ## 项目介绍（先占坑 文件待上传）
 1. 对话机器人部分
